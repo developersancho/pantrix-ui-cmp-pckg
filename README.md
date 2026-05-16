@@ -150,9 +150,9 @@
   pantrix-icons-core = { module = "io.pantrix.icon:core", version.ref = "pantrix-icons" }
   pantrix-icons-lucide = { module = "io.pantrix.icon:lucide", version.ref = "pantrix-icons" }
   pantrix-icons-feather = { module = "io.pantrix.icon:feather", version.ref = "pantrix-icons" }
-  ```
 
-  // build.gradle.kts
+  # build.gradle.kts
+  ```kotlin
   dependencies {
       implementation(libs.pantrix.core)
       implementation(libs.pantrix.components)
