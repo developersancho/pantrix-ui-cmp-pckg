@@ -209,7 +209,7 @@
   PantrixUI is licensed under the **Apache License 2.0**. See [LICENSE](https://github.com/developersancho/PantrixUI/blob/main/LICENSE) in the source repository.
   
   ```
-  Copyright 2024-2026 Developer Sancho
+  Copyright 2024-2026 @developersancho
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
@@ -217,4 +217,3 @@
   
       https://www.apache.org/licenses/LICENSE-2.0
   ```
-
